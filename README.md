@@ -6,9 +6,9 @@
 题目皆来源LeetCode
 
 ## Js系列
-- [手写call、apply、bind函数]()
-- [手写一个new函数]()
-- [彻底搞懂数据类型转换]()
-- [手写一个防抖函数]()
+- [手写call、apply、bind函数](https://github.com/Saikikoko/MoYu/issues/1)
+- [手写一个new函数](https://github.com/Saikikoko/MoYu/issues/18)
+- [彻底搞懂数据类型转换](https://github.com/Saikikoko/MoYu/issues/22)
+- [手写一个防抖函数](https://github.com/Saikikoko/MoYu/issues/24)
 
 
